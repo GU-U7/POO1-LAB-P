@@ -1,0 +1,37 @@
+
+     DETALLES CITA
+      -------------
+Paciente:
+    -Nombre:   Aaron
+    -Apellido: Arturo
+    -DNI:      123456789
+Fecha y Hora:
+  Fecha: 25/09/21
+  Hora:  -  15:03
+
+Establecimiento: Nasa
+Direccion: av. barquillo
+Area: cirujano
+Doctor: mefistofeles notiene
+
+Motivo:
+    -nmotivo 1
+    -motivo 2
+    -motivo 3
+
+     DETALLES CITA
+      -------------
+Paciente:
+    -Nombre:   A
+    -Apellido: C
+    -DNI:      5416544
+Fecha y Hora:
+  Fecha: 258/09/5
+  Hora:  -  15:05
+
+Establecimiento: Nasa
+Direccion: av. barquillo
+Area: cirujano
+Doctor: mefistofeles notiene
+
+Motivo:
